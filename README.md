@@ -52,6 +52,11 @@
 - 카이제곱 분석
 
 ### 개선안 도출
+- 고객 및 요일별 이벤트 데이 진행
+- 고객 특성을 반영한 앱 서비스 추가
+  ![image](https://github.com/user-attachments/assets/b60fb916-f1e4-4927-9a2f-7b7a9b60e35f)
+- 미니게임 추가
+  ![image](https://github.com/user-attachments/assets/610baeec-b0fc-4a36-94c1-421b1be3b489)
 
 ## 프로젝트 활동 중 맡은 담당
 - 데이터 전처리(데이터의 이상치와 결측치 처리, 파생변수 생성)
